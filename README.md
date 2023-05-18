@@ -19,3 +19,4 @@ I utilized Python as a key tool to develop efficient solutions and automate data
 
 
 ## Projetos:
+**Análise exploratória Airbnb Florença** - https://bit.ly/41QypUI
