@@ -25,4 +25,4 @@ I utilized Python as a key tool to develop efficient solutions and automate data
 
 **Credit Card Fraud Transaction** - http://bit.ly/Credit_Card_Fraud_Prediction
 
-**Churn Prediction of a Telecomunications Company - https://bit.ly/3WZjeKm
+**Churn Prediction of a Telecomunications Company** - https://bit.ly/3WZjeKm
